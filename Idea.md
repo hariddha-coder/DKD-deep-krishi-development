@@ -2,7 +2,7 @@
 
 ## Concept Overview
 
-This idea is inspired by the mathematical concept of Sequence and Series. Just like exponential growth, the dairy farming model will follow a doubling pattern every year. It starts with an initial set of 100 cows (bhains) and scales up through their natural calving process.
+This idea is inspired by the mathematical concept of Sequence and Series. Just like exponential growth, the dairy farming model will follow a doubling pattern every year. It starts with an initial set of 100 buffalo and scales up through their natural calving process.
 
 ## Phase 1: Dairy Farming
 

@@ -6,16 +6,16 @@ This idea is inspired by the mathematical concept of Sequence and Series. Just l
 
 ## Phase 1: Dairy Farming
 
-- Start with **100 cows** in one shelter (tabela).
+- Start with **100 buffalo** in one shelter (tabela).
 - Sell their milk to generate profit.
 - Use the profit to manage their fodder (chaara) and chokar (cattle feed).
 - Every year, due to calving, each tabela will double in number:
-  - Year 1: 1 tabela (100 cows)
-  - Year 2: 2 tabela (200 cows)
-  - Year 3: 4 tabela (400 cows)
-  - Year 4: 8 tabela (800 cows)
+  - Year 1: 1 tabela (100 buffalo)
+  - Year 2: 2 tabela (200 buffalo)
+  - Year 3: 4 tabela (400 buffalo)
+  - Year 4: 8 tabela (800 buffalo)
   - ...
-- Every year, new cows will be put in new shelters to maintain balance and health.
+- Every year, new buffalos will be put in new shelters to maintain balance and health and when the overall turnover becomes 200 carore then i will adopt all the street cows and bulls and put them in gaushala.
 
 ## Phase 2: Animal Welfare
 

@@ -19,7 +19,7 @@ This idea is inspired by the mathematical concept of Sequence and Series. Just l
 
 ## Phase 2: Animal Welfare
 
-- Once the business generates **â‚¹100 Crore** profit:
+- Once the business generates **â‚¹200 Crore** profit:
   - Start rescuing stray cows and bulls from the streets.
   - Provide them shelter and care.
   - Treat and adopt them as family.
@@ -33,7 +33,7 @@ This idea is inspired by the mathematical concept of Sequence and Series. Just l
 
 ## Spiritual Vision
 
-I am a spiritual person and deeply love Narayan. Cows are very dear to Narayan, and protecting them is not just a social mission but a sacred duty for me. This divine connection is also a major reason why I am committed to cow protection.
+I am a spiritual person and deeply love Narayan. Cows are very dear to Narayan, and protecting them is not just a social mission but a sacred duty for me and mahadev also like nandi most so because of this i want to adopt bulls for cultivation because i am a big devote of mahadev also. This divine connection is also a major reason why I am committed to cow protection.
 
 ## Mission
 

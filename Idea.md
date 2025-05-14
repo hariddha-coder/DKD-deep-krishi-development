@@ -44,3 +44,10 @@ To build a sustainable, scalable and compassionate farming ecosystem that grows 
 **Founder:** Shraddha Singh  
 **Project Name:** DKD - Deep Krishi Development  
 **Vision:** Dharmic growth through compassion, employment, and sustainable agriculture.
+---
+
+### © DKD - Deep Krishi Development | Shraddha Singh
+
+This project and its concept are the original intellectual property of Shraddha Singh.  
+Cloning or forking this repository is allowed only for learning or contribution purposes.  
+**Any unauthorized use of this concept for commercial or academic presentation without credit is strictly prohibited.**

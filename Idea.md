@@ -51,3 +51,4 @@ To build a sustainable, scalable and compassionate farming ecosystem that grows 
 This project and its concept are the original intellectual property of Shraddha Singh.  
 Cloning or forking this repository is allowed only for learning or contribution purposes.  
 **Any unauthorized use of this concept for commercial or academic presentation without credit is strictly prohibited.**
+This document and its contents are protected under the MIT License. Unauthorized use or duplication is strictly prohibited.

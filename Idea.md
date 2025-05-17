@@ -10,10 +10,10 @@ This idea is inspired by the mathematical concept of Sequence and Series. Just l
 - Sell their milk to generate profit.
 - Use the profit to manage their fodder (chaara) and chokar (cattle feed).
 - Every year, due to calving, each tabela will double in number:
-  - Year 1: 1 tabela (100 buffalo)
-  - Year 2: 2 tabela (200 buffalo)
-  - Year 3: 4 tabela (400 buffalo)
-  - Year 4: 8 tabela (800 buffalo)
+  - Year 1: 1 shelter(100 buffaloes)
+  - Year 2: 2 shelter(200 buffaloes)
+  - Year 3: 4 shelter(400 buffaloes)
+  - Year 4: 8 shelter(800 buffaloes)
   - ...
 - Every year, new buffalos will be put in new shelters to maintain balance and health and when the overall turnover becomes 200 carore then i will adopt all the street cows and bulls and put them in gaushala.
 
